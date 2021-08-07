@@ -4277,6 +4277,17 @@ input[type="button"].btn--primary:focus {
     min-width: 0;
 }
 
+.s-hobbies-chess__header {
+    text-align: center;
+}
+
+.chess-column {
+    -ms-flex: 1 1 0%;
+    -webkit-box-flex: 1;
+    flex: 1 1 0%;
+    padding: 0 var(--gutter-lg);
+}
+
 /* ===================================================================
  * # testimonials
  *
